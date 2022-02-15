@@ -1,6 +1,6 @@
 # README
-## This is the README for your extension "ut-hooked-on-horns"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Hooked on Horns
+UT Hooked on Horns is a set of light and dark themes with emphasis on burnt orange accents. It is inspired by a Texas Longhorn steer named Bevo, Who is burnt orange in color. Bevo not only attends almost all home football games and pep rallies, he also can be found in the vscode extension market. This theme also pays homage to the Silver Spurs with it's silver colors.
 
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
 * Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
