@@ -1,0 +1,21 @@
+{
+    "name": "ut-hooked-on-horns",
+    "displayName": "UT-Hooked-on-Horns",
+    "description": "UT Hooked on Horns is a set of light and dark themes with emphasis on burnt orange accents. It is inspred by a Texas Longhorn steer named Bevo, Who is burfnt orange in color. Bevo not only attends almost all home football games and pep rallies, he also can be found in the vscode exttension market. This theme also pays homage to the Silver Spurs with it's silver colors.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hook 'em Horns!",
+                "uiTheme": "vs",
+                "path": "./themes/Hook 'em Horns!-color-theme.json"
+            }
+        ]
+    }
+}
